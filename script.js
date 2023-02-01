@@ -68,6 +68,7 @@ let answer = +prompt('Есть ли вам 18?', 'Да');
 console.log(typeof(answer));
 
 //Операторы JS
+// унарный +               
 console.log('arr'+ '-object');
 console.log(4 + '- object');
 
